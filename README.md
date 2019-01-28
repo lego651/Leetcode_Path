@@ -1,4 +1,4 @@
-Master Python in Minimal Time  
+Master Leetcode in Minimal Time  
 ===
 **GitHub** 地址：https://github.com/lego651/Python_Path
 
